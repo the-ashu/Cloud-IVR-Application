@@ -1,26 +1,3 @@
-{
-  "name": "Cloud-IVR-Application",
-  "version": "1.0.0",
-  "description": "My own IVR",
-  "main": "script.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "heroku": "node index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/the-ashu/Cloud-IVR-Application.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/the-ashu/Cloud-IVR-Application.git/"
-  },
-  "homepage": "https://github.com/the-ashu/Cloud-IVR-Application.git#readme",
-  "dependencies": {
-    "express": "^4.15.4",
-    "http": "0.0.0",
-    "xml": "^1.0.1",
-    "xmlhttprequest": "^1.8.0"
-  }
+"scripts": {
+    "start": "node index.js"
 }
